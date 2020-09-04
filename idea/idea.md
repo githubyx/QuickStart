@@ -10,6 +10,8 @@
 - 格式化json数据（需安装GsonFormat） Alt+Insert
 - 进入方法 ctrl + 鼠标左键 /ctrl + alt + 鼠标左键 
 - 方法补全 ctrl + ; /ctrl + shift + ;
+- 自动补全变量名和变量属性 CTRL+ALT+V
+- 补全分号; CTRL + SHIFT +ENTER
 - 调试代码快捷键
   - F8 单步调试，不进入函数内部
   - F7 单步调试，进入函数内部
